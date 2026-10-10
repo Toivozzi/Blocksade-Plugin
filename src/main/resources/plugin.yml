@@ -1,0 +1,9 @@
+name: BlockSade
+version: '${version}'
+main: me.Toivo__.blockSade.BlockSade
+api-version: '1.21'
+
+commands:
+  blocksade:
+    description: PalikkaSade-komento
+    usage: /blocksade [start|stop|asetukset|info]
